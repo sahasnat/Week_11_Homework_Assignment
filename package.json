@@ -1,0 +1,25 @@
+{
+  "name": "week_11_homework_assignment",
+  "version": "1.0.0",
+  "description": "An application to write and save note with Express.js back end and will save and retrieve note data from JSON file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "author": "Syed Hasnat <hasnat@live.com.au>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.16.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahasnat/week_11_homework_assignment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sahasnat/week_11_homework_assignment/issues"
+  },
+  "homepage": "https://github.com/sahasnat/week_11_homework_assignment#readme"
+}
